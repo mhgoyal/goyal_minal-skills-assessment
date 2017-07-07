@@ -1,0 +1,13 @@
+1. Unzip the file
+2. In order to compile and run the App on localhost, you will need to install Node.js
+3. Run the npm command prompt
+4. Go to the path ..\eLearning\elearning-tool
+5. Enter the below commands to compile and run the App on localhost
+  
+  npm install -g @angular/cli
+  
+  ng serve
+
+6. You will see the localhost address in the command prompt to run the App. For eg:
+    
+    ** NG Live Development Server is running on http://localhost:4200. **
